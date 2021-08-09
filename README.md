@@ -52,3 +52,4 @@ Things left to-do:
 * Implement solvers for Who's on First and Maze.
 * Allow the user to start a new mission or change edgework without restarting the program. 
 * Clean up the code for consistency and clarity.
+* Add support for common modded modules?
